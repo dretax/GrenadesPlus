@@ -2,7 +2,7 @@ name: GrenadesPlus
 main: team.GrenadesPlus.GrenadesPlus
 version: 1.3
 depend: [Spout, ApiPlus]
-authors: [SirTyler, Atlan1]
+authors: [SirTyler, Atlan1, DreTaX]
 description: >
              Grenades+ - Kill Like Creepers!
 commands:
